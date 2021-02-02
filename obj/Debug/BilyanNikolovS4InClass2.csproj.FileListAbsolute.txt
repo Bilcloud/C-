@@ -1,0 +1,7 @@
+C:\PROG1781\inClass\BilyanNikolovS4InClass2\bin\Debug\BilyanNikolovS4InClass2.exe.config
+C:\PROG1781\inClass\BilyanNikolovS4InClass2\bin\Debug\BilyanNikolovS4InClass2.exe
+C:\PROG1781\inClass\BilyanNikolovS4InClass2\bin\Debug\BilyanNikolovS4InClass2.pdb
+C:\PROG1781\inClass\BilyanNikolovS4InClass2\obj\Debug\BilyanNikolovS4InClass2.csprojAssemblyReference.cache
+C:\PROG1781\inClass\BilyanNikolovS4InClass2\obj\Debug\BilyanNikolovS4InClass2.csproj.CoreCompileInputs.cache
+C:\PROG1781\inClass\BilyanNikolovS4InClass2\obj\Debug\BilyanNikolovS4InClass2.exe
+C:\PROG1781\inClass\BilyanNikolovS4InClass2\obj\Debug\BilyanNikolovS4InClass2.pdb
